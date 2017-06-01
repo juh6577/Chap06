@@ -10,6 +10,6 @@ public class TestDrive0529 {
 		System.out.println(mycal.add(10, 5));
 		System.out.println(mycal.subtract(10, 5));
 		System.out.println(mycal.average(input));
+		System.out.println("abc");
 	}
-
 }
